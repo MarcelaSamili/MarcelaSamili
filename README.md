@@ -1,6 +1,6 @@
-<h1>Frontend Specialist in React, WebGL, Three.js / Ruby on Rails Developer</h1>
+<h1>Junior Full-Stark and Full-Cycle NodeJS, ReactJS, Python / JavaScript Developer</h1>
 <h2>👋 About me</h2>
 
-- 🔭 I’m a Senior Software Engineer with tons of hands-on experience in developing Web and Mobile apps. Also, I am very familiar with Web and Graphic Design as well.
-- 🌱 I’m currently learning about Web3 and AI/ML to integrate Cryptocurrency, NFT, and various Chatbots into my Web and Mobile apps.
+- 🔭 My journey into the world of programming has been both exciting and fulfilling, leading me to acquire knowledge and hands-on experience in various technologies and methodologies. I am proficient in JavaScript, HTML5, CSS3, Python, PHP, JAVA, SEO, MySQL, JQuery, Bootstrap, ReactJS, and Git/GitHub. Additionally, I have a strong understanding of both hardware and software, as well as experience with Scrum methodologies.
+- 🌱 I hold a degree in Pharmacy and am currently advancing my skills with a postgraduate degree in Full Stack & Full Cycle Development.
 - 👯 I’m looking to collaborate on amazing and successful projects where I can contribute.
